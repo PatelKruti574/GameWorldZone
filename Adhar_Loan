@@ -57,10 +57,10 @@
       },
        "applovin":{
          "ad_showAdStatus":"",
-         "applovin_intretial":"4bc763097e532817",
-          "applovin_baner":"21167088e88c776c",
-          "applovin_native":"fddc370e2436a416",
-          "applovin_native1":"fddc370e2436a416"
+         "applovin_intretial":"c6de9aa89c538330",
+          "applovin_baner":"",
+          "applovin_native":"042126ab6e8f3c3b",
+          "applovin_native1":"04ee98a810a6824c"
       },
       "QurekaLite":{
          "ad_showAdStatus":"1",
